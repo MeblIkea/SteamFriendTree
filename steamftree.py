@@ -4,8 +4,8 @@ import random
 import networkx as nx
 import matplotlib.pyplot as plt
 
-now = 76561199008790538
-token = '220CB7667C6C55E2AF3D752FD5754942'
+now = 
+token = ''
 done = [now]
 used = []
 names = {}
